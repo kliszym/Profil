@@ -10,7 +10,9 @@ Najpierw nale¿y wykonaæ skrypt matura.py poleceniem matura.py, tworzy on bazê da
 Skrypt który rozwi¹zuje zadania ma nazwê cmd.py.
 Ka¿da komenda rozwi¹zuj¹ca zadanie zaczyna siê od myœlinika oraz numeru zadania.
 Przyk³adowo komenda rozwi¹zuj¹ca zadanie pierwsze zaczyna siê od: 
+
 > cmd.py -1
+
 Nastêpnie nale¿y podaæ argumenty odpowiednie dla zadania w dowolnej kolejnoœci.
 Przyk³adowo w zadaniu pierwszym, potrzebujemy podaæ województwo dla którego chcemy otrzymaæ wyniki oraz rok do którego œrednia ma byæ liczona.
 Przyk³adowe polecenie do zadania 1:
