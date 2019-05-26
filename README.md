@@ -13,7 +13,7 @@ Przyk³adowo komenda rozwi¹zuj¹ca zadanie pierwsze zaczyna siê od:
 
 > cmd.py -1
 
-Nastêpnie nale¿y podaæ argumenty odpowiednie dla zadania w dowolnej kolejnoœci.
+Nastêpnie nale¿y podaæ argumenty odpowiednie dla zadania w dowolnej kolejnoœci. Przy pisaniu nazw terytorium mo¿na u¿ywaæ dowolie wielkiej oraz ma³ej litery.
 Przyk³adowo w zadaniu pierwszym, potrzebujemy podaæ województwo dla którego chcemy otrzymaæ wyniki oraz rok do którego œrednia ma byæ liczona.
 Przyk³adowe polecenie do zadania 1:
 > cmd.py -1 rok 2015 region Mazowieckie
